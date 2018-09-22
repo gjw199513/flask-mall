@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+DEBUG = True
+SQLALCHEMY_ECHO = True
+SQLALCHEMY_DATABASE_URI = 'mysql://root:gjw605134015@127.0.0.1/mysql?charset=utf-8'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLALCHEMY_ENCODING = "utf-8"
